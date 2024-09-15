@@ -4,6 +4,8 @@
 
 # Universalis
 
+trigger CR
+
 A crowdsourced market board aggregator for the game FINAL FANTASY XIV.
 
 ## API Reference
